@@ -12,7 +12,7 @@ ___
 ## 😀 About me
 - 📝 I am currently learning knowledge related to deep learning and ROS, and I look forward to making some meaningful work on the combination of robots and deep learning in the future.
 
-## 📨 Contack
+## 📨 Contack 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
