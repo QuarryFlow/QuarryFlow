@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div style="text-align: center;">
  Hi there 👋, I'm a student from Beijing Institute of Technology, majoring in automation, interested in 
   <span style="color: #1E90FF; font-weight: bold;">AI</span> and 
