@@ -6,7 +6,7 @@ ___
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuarryFlow&show_icons=true&count_private=true&theme=gruvbox)
 
 ## 😀 About me  ![robotics](https://img.shields.io/badge/robotics-green) ![AI](https://img.shields.io/badge/AI-blue)
-- <span style="font-size: 18px;">📝 I am currently learning knowledge related to <strong>deep learning</strong> and <strong>ROS</strong>, and I look forward to making some meaningful work on the combination of <strong>robots</strong> and deep learning in the future.</span>
+- <span style="font-size: 24px;">📝 I am currently learning knowledge related to <strong>deep learning</strong> and <strong>ROS</strong>, and I look forward to making some meaningful work on the combination of <strong>robots</strong> and deep learning in the future.</span>
 
 
 
