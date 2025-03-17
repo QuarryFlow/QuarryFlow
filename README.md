@@ -1,16 +1,15 @@
 
 <div style="text-align: center;">
- Hi there 👋, I'm a student from Beijing Institute of Technology, majoring in automation, interested in 
-  <span style="color: #1E90FF; font-weight: bold;">AI</span> and 
-  <span style="color: #1E90FF; font-weight: bold;">robotics</span>.
+  Hi there 👋, I'm a student from Beijing Institute of Technology, majoring in automation, interested in <strong>AI</strong> and <strong>Robotics</strong>.
 </div>
 
 ___
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuarryFlow&show_icons=true&count_private=true&theme=gruvbox)
 
-## 😀 About me
+## 😀 About me  ![robotics](https://img.shields.io/badge/robotics-green) ![AI](https://img.shields.io/badge/AI-blue)
 - 📝 I am currently learning knowledge related to deep learning and ROS, and I look forward to making some meaningful work on the combination of robots and deep learning in the future.
+
 
 ## 📨 Contack 
 
