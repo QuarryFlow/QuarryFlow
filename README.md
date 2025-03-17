@@ -30,7 +30,8 @@ ___
 
 
 <p align="center">
-  🚧 <strong><span style="color:#FFA500;">This page is still under development.</span></strong> 🚧 <br>
-  More updates will be available soon. Stay tuned!
+  🚧 <strong><span style="color:#FFA500; font-size: 24px;">This page is still under development.</span></strong> 🚧 <br>
+  <span style="font-size: 18px;">More updates will be available soon. Stay tuned!</span>
 </p>
+
 
